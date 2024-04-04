@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WeatherApp/static/css/main.8d0e6266.css",
+    "main.js": "/WeatherApp/static/js/main.20a43d66.js",
+    "static/media/315981_celsius_degree_icon.png": "/WeatherApp/static/media/315981_celsius_degree_icon.5ecb8b3c411711479395.png",
+    "index.html": "/WeatherApp/index.html",
+    "main.8d0e6266.css.map": "/WeatherApp/static/css/main.8d0e6266.css.map",
+    "main.20a43d66.js.map": "/WeatherApp/static/js/main.20a43d66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d0e6266.css",
+    "static/js/main.20a43d66.js"
+  ]
+}
