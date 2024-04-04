@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Card from "./Card/Card";
-import { DEFAULTURL } from "./keyAPI";
+import { DEFAULTURL } from "./ApiKey";
 
 function App(){
     const [userInput, setUserInput] = useState('')
